@@ -32,7 +32,7 @@ public class Zadatak1_11212019 {
 		} else {
 			System.out.println("Elementi " + arrayName + " deljivi sa 3: ");
 			System.out.println(result);
-		}
+		} 
 		return array;
 	}
 
