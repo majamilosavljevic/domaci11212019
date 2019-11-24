@@ -35,7 +35,7 @@ public class Zadatak2_11212019 {
 		for (int i = 0; i < n; i++) {
 			System.out.println("Unesite " + (i + 1) + ". element niza: ");
 			array[i] = scan.nextInt();
-		}
+		} 
 		int k = 0;
 		while (k <= 0) {
 			System.out.println("Unesite ceo broj veci od 0 da proverite deljivost elemenata niza istim:");
